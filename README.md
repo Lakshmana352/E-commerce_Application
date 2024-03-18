@@ -33,6 +33,5 @@ In .env file you need to mention DB_NAME -- database name, DB_USER -- database u
 
 npm run dev -- for running nodemon server.js </br>
 npm start -- for running node server.js </br>
-npm test -- for running unit tests. </br>`
 
 **Tested the apis in the PostMan working fine**
